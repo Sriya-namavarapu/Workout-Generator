@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+##Please note that this is contains test workout plans from internet and are not suggested for other people to try out them. 
+
 ## Getting Started
 
 First, run the development server:
